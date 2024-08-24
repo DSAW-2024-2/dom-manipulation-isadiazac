@@ -121,13 +121,17 @@ body {
     visibility: collapse;
   }
   .icon_mobile {
-    margin-left: 40px;
     display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 40px;
+    font-size: 35px;
   }
   .home {
     margin-left: 10px;
     width: 90px;
-    height: 50px;
+    height: 100px;
+    font-size: medium;
     background-color: rgb(247, 242, 222);
   }
   .images {
@@ -163,5 +167,8 @@ body {
     width: 200px;
     height: 200px;
     margin-top: 10px;
+  }
+  .navbar {
+    height: 100px;
   }
 }
