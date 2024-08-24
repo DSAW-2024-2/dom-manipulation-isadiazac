@@ -143,11 +143,13 @@ body {
     width: 5px;
     height: 5px;
     margin: 5px;
+    font-size: 35px;
   }
   #btnnext {
     width: 5px;
     height: 5px;
     margin: 2px;
+    font-size: 35px;
   }
   .content {
     flex-wrap: wrap;
